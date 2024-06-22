@@ -26,10 +26,10 @@ This repository contains a REGO policy for enforcing access control to an AWS S3
 3. Run the tests using `opa test policy.rego policy_test.rego`.
 
 ## Git Repository
-[Repository Link](https://github.com/yourusername/opa-s3-access-policy)
+
 
 ## Test Results
-![Test Results](path/to/screenshot.png)
+
 
 ## Contact
-For inquiries, please contact your TEK contact.
+
